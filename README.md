@@ -1,16 +1,17 @@
-## Hi there 👋
+## <center> Christopher Nastasi </center>
 
-<!--
-**Cnasty07/Cnasty07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```json
+{
+  "currently": "building"
+    "project": [
+      {
+        "name": "unspecified",
+        "task": "Ollama  Integrations for assistance in computing tasks."
+        "description": "Extending LLM capabilites to one button press and quick input with accurate output given the content."
+        "private": "True"
+      },
+  ]
+}
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```
+⚡ Fun fact: Vibe coding is boring, I craft files by hand for the love of the game.
