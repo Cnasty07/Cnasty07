@@ -6,7 +6,7 @@
     "project": [
       {
         "name": "unspecified",
-        "task": "Ollama  Integrations for assistance in computing tasks."
+        "task": "Integrating MCP servers/ custom tool calling from local agents."
         "description": "Extending LLM capabilites to one button press and quick input with accurate output given the content."
         "private": "True"
       },
@@ -14,4 +14,4 @@
 }
 
 ```
-⚡ Fun fact: Vibe coding is boring, I craft files by hand for the love of the game.
+⚡ Fun fact: I craft files by hand for the love of the game. Well, most of the time.
