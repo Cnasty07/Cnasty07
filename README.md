@@ -6,7 +6,7 @@
     "project": [
       {
         "name": "unspecified",
-        "task": "Integrating MCP servers/ custom tool calling from local agents."
+        "task": "Integrating MCP server/custom tool calling for local agents on personal tasks."
         "description": "Extending LLM capabilites to one button press and quick input with accurate output given the content."
         "private": "True"
       },
