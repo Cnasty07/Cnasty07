@@ -7,11 +7,17 @@
       {
         "name": "unspecified",
         "task": "Integrating MCP server/custom tool calling for local agents on personal tasks."
-        "description": "Extending LLM capabilites to one button press and quick input with accurate output given the content."
-        "private": "True"
+        "description": "Extending LLM capabilites to one button press(or prompt) and quick input with accurate output given the content."
+        "private": "True",
+        "langauges": [
+          "python",
+          "markdown",
+          "latex"
+        ]
       },
   ]
 }
 
 ```
 ⚡ Fun fact: I craft files by hand for the love of the game. Well, most of the time.
+
